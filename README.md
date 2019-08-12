@@ -17,6 +17,6 @@ Assignment 6 - https://github.com/apoorvdixit99/Music-Player-Android-App
 
 Assignment 7 - https://github.com/apoorvdixit99/GPS-Tracker-Android-App
 
-In Addition to these seven assignments, the SDL Assignment List is present as well on this repository.
+In Addition to these seven assignments, the SDL Assignment List is present on this repository as well.
 
 Have fun! :)
