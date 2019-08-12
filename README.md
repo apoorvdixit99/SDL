@@ -1,6 +1,8 @@
 # SDL
 
-Assignment 1 - This is a simple Student Records Application making use of various Data Structures.
+Assignment 1:-
+  This is a simple Student Records Application making use of various Data Structures.
+  Student.java is a part of Assignment 1.
 
 Assignment 2 - This Assignment is a simple Chat Application between a Client and a Server.
 
